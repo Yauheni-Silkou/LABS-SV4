@@ -11,6 +11,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SV4_3", "SV4_3\SV4_3.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SV4_4", "SV4_4\SV4_4.csproj", "{589C4F63-0EE2-41E7-A69A-E9ED0335862E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Методички", "Методички", "{9309212E-2251-4377-AC77-3C3337CFA5C6}"
+	ProjectSection(SolutionItems) = preProject
+		D:\Projects\______Send\СВЧ\Лабораторная работа №1.doc = D:\Projects\______Send\СВЧ\Лабораторная работа №1.doc
+		D:\Projects\______Send\СВЧ\Лабораторная работа №2.doc = D:\Projects\______Send\СВЧ\Лабораторная работа №2.doc
+		D:\Projects\______Send\СВЧ\Лабораторная работа №3.doc = D:\Projects\______Send\СВЧ\Лабораторная работа №3.doc
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
